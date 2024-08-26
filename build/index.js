@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 const car = {
     manufacturer: 'Lamborghini',
     model: 'Veneno Roadster',
@@ -6,3 +7,4 @@ const car = {
     class: 'Sports Car',
 };
 console.log(car);
+exports.default = car;

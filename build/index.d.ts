@@ -5,3 +5,4 @@ interface Car {
     class: string;
 }
 declare const car: Car;
+export default car;
