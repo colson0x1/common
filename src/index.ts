@@ -13,3 +13,5 @@ const car: Car = {
 };
 
 console.log(car);
+
+export default car;
