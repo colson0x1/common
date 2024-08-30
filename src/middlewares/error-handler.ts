@@ -46,6 +46,7 @@ export const errorHandler = (
   }
 
   // Unknown error or generic error
+  console.log(err);
   res.status(400).send({
     // message: 'Something went wrong',
     // message: err.message,
