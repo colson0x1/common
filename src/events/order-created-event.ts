@@ -5,6 +5,7 @@ export interface OrderCreatedEvent {
   subject: Subjects.OrderCreated;
   data: {
     id: string;
+    version: number;
     status: OrderStatus;
     userId: string;
     // Since this OrderCreatedEvent will be converted to JSON so rather than
