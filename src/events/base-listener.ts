@@ -39,7 +39,8 @@ export abstract class Listener<T extends Event> {
    * @ Type: Stan
    * @ Goal: Pre-initialized NATS client
    */
-  private client: Stan;
+  // private client: Stan;
+  protected client: Stan;
   /*
    * @ Prop: ackWait
    * @ Type: number
