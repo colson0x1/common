@@ -4,7 +4,7 @@ The `@tixvibe/common` library is a shared library for the TixVibe microservices 
 
 [@tixvibe/common NPM](https://www.npmjs.com/package/@tixvibe/common)
 
-[TixVibe Microservices Github Repository](https://github.com/colson0x1/TixVibe-microservices)
+[TixVibe Monorepo](https://github.com/colson0x1/TixVibe-microservices)
 
 ---
 
